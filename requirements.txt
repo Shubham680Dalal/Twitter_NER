@@ -1,0 +1,16 @@
+tensorflow==2.15.0
+keras==2.15.0
+tf-keras
+keras-preprocessing
+wordninja 
+wordcloud 
+contractions 
+pyspellchecker 
+transformers
+scipy
+joblib
+numpy 
+pandas
+streamlit
+matplotlib
+tqdm
